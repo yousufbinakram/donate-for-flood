@@ -28,6 +28,10 @@ body{
     margin: 20px;
     padding: 40px;
 }
+#selected{
+   background-color: rgba(165, 42, 42, 0.645); 
+   border: 5px solid rgba(255, 0, 0, 0.801);
+}
 #donate-other{
     text-align: center;
 }
