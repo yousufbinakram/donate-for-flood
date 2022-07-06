@@ -16,3 +16,49 @@ body{
     padding: 10px 20px;
     border-radius: 8px;
 }
+.donate-today{
+    text-align: center;
+    margin-top: 20px;
+}
+.amount-of-donate{
+    display: flex;
+}
+.amount-of-donate h2{
+    background-color: rgba(128, 128, 128, 0.205);
+    margin: 20px;
+    padding: 40px;
+}
+#donate-other{
+    text-align: center;
+}
+.donate-plan{
+    text-align: center;
+    
+}
+.flexible-container{
+    display: flex;
+    margin: 40px;
+}
+footer{ color: white;
+    text-align: center;
+    background-color: black;
+}
+.orange-color{
+    color: orange;
+}
+#food{
+    background-color: rgba(128, 128, 128, 0.185);
+    margin: 10px;
+    padding: 20px;
+}
+#shelter{
+    background-color: rgba(255, 99, 71, 0.494);
+    margin: 10px;
+    padding: 20px;
+
+}
+#education{
+    background-color: rgba(255, 228, 196, 0.48);
+    margin: 10px; 
+    padding: 20px;
+}
